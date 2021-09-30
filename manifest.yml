@@ -5,3 +5,4 @@ applications:
    memory: 128M
    services:
     - Cloudant-n6
+    - Natural Language Understanding-ip
